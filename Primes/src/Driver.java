@@ -12,14 +12,14 @@ public class Driver {
 	}
 
 	/* Use the algorithm described in the lab description so that the array, nums, contains all the
-	 * valid primes. All others should be -1.
+	 * valid primes. All others should be false.
 	 */
 	public static void compute(boolean[] nums) {
  
 	}
 	
 	/*
-	 * Complete the method below so that it prints all the prime numbers in the integer array nums
+	 * Complete the method below so that it prints all the prime numbers in the array 
 	 * Assume that the compute method has been called that sets the array to contain the prime numbers as
 	 * described in the lab document.
 	 */
